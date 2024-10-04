@@ -1,0 +1,9 @@
+Item is either found in Warehouse A or Warehouse B
+
+Item in Warehouse A = 0.6
+Item in Warehouse B = 0.8 
+
+Item in either Warehouse A or B = 0.6+0.8-0.6*0.8
+                                = 1.4 - 0.48
+                                = 0.92
+92% chance that product will be found on the Amazon website.
