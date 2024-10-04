@@ -1,0 +1,9 @@
+There are 6 ways to roll a sum of 7 with two dice 
+Probability of rolling a 7 = 1/6
+
+Win Amount = (21-10)*1/6 + 5/6*(0-10) = -6.5
+
+Win Amount is calculated as 21 winnings - 10 cost of playing 
+Loss Amount is 0 winnig - 10 cost of playing 
+
+Hence the game is not worth playing.
