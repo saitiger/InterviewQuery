@@ -1,0 +1,7 @@
+80% of time the ticket will work and 20% times it won't so we will have to buy the ticket at the box office in that case.
+
+Expected Pay = 0.8*50 + 0.2*(50+70) = 64
+
+Amount to Keep = 70+50 = 120 
+
+We need to keep $120 since in the worst case we may have to buy the box office ticket.
