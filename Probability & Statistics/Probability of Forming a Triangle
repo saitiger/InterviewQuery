@@ -1,0 +1,22 @@
+Assuming the first point we pick (X) < the second point (Y)
+
+the lengths are X, (Y-X) and (1-Y)
+
+A valid triangle can be formed by three points where the sum of two points > length of third point 
+
+1. X+(Y-X) > 1-Y 
+Y>1/2
+
+2. (Y-X)+(1-Y) > X
+X<1/2
+
+3. X+(1-Y) > (Y-X)
+Y<X+1/2
+
+Using the 3 equations and Y>X. Probability = Area of Triange = 1/2*1/2*1/2 = 1/8
+
+For the case when X>Y 
+
+Area = 1/2*1/2*1/2 = 1/8
+
+Probability of Valid Triangle = 1/8+1/8 = 1/4
