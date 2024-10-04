@@ -1,0 +1,4 @@
+1) Multiple Comparisons Problem
+2) P threshold : When more variants are incoporated the threshold for p values should be lowered to make sure we don't have a false positive.
+3) Sample Ratio Mismatch 
+4) Randomization : Ensure that the randomization was correctly done.
