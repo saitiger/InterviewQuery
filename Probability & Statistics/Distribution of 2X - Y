@@ -1,0 +1,14 @@
+Linear combination of Means : E[aX+bY] = a*E[X] + b*E[Y]
+E[aX-bY] = a*E[X] - b*E[Y]
+
+This holds regardless of whether X and 𝑌 are independent or dependent.
+
+Variance of Linear combination : E[aX+bY] = a^2*E[X] + b^2*E[Y]
+E[aX-bY] = a^2*E[X] + b^2*E[Y]
+
+This only holds when X and 𝑌 are independent.
+
+
+Therefore Mean of 2X-Y = 2*3-1 = 5
+
+Variance of 2X-Y = 4*4+1*4 = 20
