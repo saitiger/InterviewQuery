@@ -1,0 +1,6 @@
+Expected Value of Rolling a Dice = 1/6(1+2+3+4+5+6) = 3.5
+
+If the first roll is <3.5 then we roll the die second time.
+
+Expected Value = 1/6(4+5+6) {Keep the first roll} + 1/6(3.5) {Reroll a second time with expected value of 3.5}
+               = 4.25
