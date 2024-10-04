@@ -1,0 +1,13 @@
+Probability that Amy wins in first roll = Probability of getting a 6 = 1/6
+
+Probability that Amy wins = Amy Wins in first roll + (Probability that Amy misses)*(Probability that Brad Misses)*(Probability that Amy wins)
+
+p = 1/6 + 5/6*5/6*p 
+
+p - 25/36*p = 1/6 
+
+11/36*p = 1/6 
+
+p = 1/6*36/11 
+
+p = 6/11
